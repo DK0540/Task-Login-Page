@@ -57,7 +57,7 @@ const Register = () => {
         <div className="button">Register</div>
         <div>or</div>
         <Link to="/login" className="button">
-          Book Now
+          Login
         </Link>
       </div>
     </>
